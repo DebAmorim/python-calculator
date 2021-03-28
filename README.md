@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Python Calculator" title="#pythonCalculator" src="App/images/python_calculator.gif" width="300px" />
+    <img alt="Python Calculator" title="#pythonCalculator" src="images/python_calculator.gif" width="300px" />
 </h1>
 
 <h2 align="center">
